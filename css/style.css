@@ -33,6 +33,7 @@ header {
 }
 
 .menu a {
+  text-transform: uppercase;
   text-decoration: none;
   color: inherit;
 }
